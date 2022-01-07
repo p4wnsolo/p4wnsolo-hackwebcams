@@ -1,8 +1,6 @@
 # p4wnsolo-hackwebcams
 How to hack webcams
 
-## blah
-
 This guide assumes that you have access to the WiFi network on which the webcam(s) is/are running.
 
 
